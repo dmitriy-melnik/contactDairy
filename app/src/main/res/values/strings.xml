@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_contact">New contact</string>
+    <string name="new_event">New event</string>
+    <string name="event_name">Event name</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="place">Place</string>
+    <string name="companions">Companions</string>
+    <string name="name">Name</string>
+    <string name="known_contact">Relative or close friend?</string>
+    <string name="mitigation_question">Which prevention measures were taken?</string>
+    <string name="phone">Phone</string>
+    <string name="unsure">Not sure</string>
+    <string name="encounter_type">Encounter type</string>
+    <string name="indoors">Indoors</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="emptydiary">The diary is empty</string>
+    <string name="contact_saved">Contact saved</string>
+    <string name="event_saved">Event saved</string>
+    <string name="edit_event">Edit event</string>
+    <string name="edit_contact">Edit contact</string>
+    <string name="options">Options</string>
+    <string name="entry_deleted">Entry deleted</string>
+    <string name="contact_developer_summary">Tell me what you think about the app, or problems you have encountered</string>
+    <string name="contact_developer">Contact the developer</string>
+    <string name="about_donate">Buy me a coffee</string>
+    <string name="notification_title">Who have you been with today?</string>
+    <string name="notification_text">Add your contacts to the diary</string>
+    <string name="choose_option">Please, choose an option</string>
+    <string name="compulsory_field">Compulsory field</string>
+    <string name="contact_developer_uri" translatable="false">mailto:contactdiary@alexpozas.com</string>
+    <string name="feedback_subject" translatable="false">Feedback about Contact Diary</string>
+    <string name="donate_url" translatable="false">https://www.paypal.me/apozasker</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="alarm_modified">Alarm modified</string>
+    <string name="incorrect_alarm_time">Please, insert a correct time</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="choose_time">Choose time</string>
+    <string name="show_close_contacts">Show close contacts only</string>
+    <string name="more">More</string>
+    <string name="settings">Settings</string>
+    <string name="emptytime" translatable="false">00:00</string>
+    <string name="entries_deleted">Entries deleted</string>
+    <string name="entries_selected">" entries selected"</string>
+    <string name="privacy_title">Privacy policy</string>
+    <string name="privacy_intro">Contact Diary is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use Contact Diary.  In short, and since Contact Diary cannot connect to the internet, no Personal Information will be stored nor copied outside the user\'s device.  If you choose to use Contact Diary, then you agree to the collection (none) and use of information in relation to this policy. The Personal Information that Contact Diary collects is used for providing its service. As made explicit above, I cannot and thus will not use nor share your information with anyone.</string>
+    <string name="privacy_icu">The use of Contact Diary requires that you input certain personally identifiable information, namely names and (optionally) places and phone numbers. The information that Contact Diary requests will be retained on your device and is not collected by me in any way.</string>
+    <string name="privacy_cookies">Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.\n\nContact Diary does not use any cookies, neither first-party nor third-party.\n\nIn the same way, no service is delegated to third parties. The information you input into Contact Diary never leaves your device.</string>
+    <string name="privacy_security">Again, no information you input to Contact Diary ever leaves your device. This fact can be always evaluated by inspecting Contact Diary\'s source code, which is available at <a href="https://www.github.com/apozas/contactdiary">www.github.com/apozas/contactdiary</a>. Thus, its security and integrity is linked to the physical security and integrity of your device, of which I take no responsibility.</string>
+    <string name="privacy_changes">I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.\n\nThis policy is effective as of 2020-09-08</string>
+    <string name="privacy_contact">If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at <a href="mailto:contactdiary@alexpozas.com">contactdiary@alexpozas.com</a> (preferably in English).</string>
+    <string name="privacy_changes_title">Changes to this privacy policy</string>
+    <string name="privacy_icu_title">Information collection and use</string>
+    <string name="privacy_cookies_title">Cookies and service providers</string>
+    <string name="privacy_security_title">Security</string>
+    <string name="privacy_contact_title">Contact me</string>
+    <string name="empty_table">Press (+) to begin adding contacts</string>
+    <string name="app_version_title">App version</string>
+    <string name="about_donate_summary" />
+    <string name="about_rate">Rate the app</string>
+    <string name="about_rate_summary">If you like the app, please rate and review it so it can reach more people that may find it useful</string>
+    <string name="rate_url" translatable="false">https://play.google.com/store/apps/details?id=com.apozas.contactdiary</string>
+    <string name="entry_duplicated">Entry duplicated</string>
+    <string name="entries_duplicated">Entries duplicated</string>
+    <string name="duplicate">Make a copy today</string>
+    <string name="select">Select</string>
+    <string name="notes">Notes</string>
+    <string name="acknowledgments">Thanks</string>
+    <string name="about">About</string>
+    <string name="thanks_text">While Contact Diary started as a solo project, it has benefited from invaluable altruistic contributions from many people. My honest thanks to everyone in this page.</string>
+    <string name="thanks_homescreen"><b>Homescreen shortcuts - </b><a href="https://github.com/GenosseFlosse">GenosseFlosse</a></string>
+    <string name="thanks_chinese"><b>Chinese translation - </b><a href="https://crowdin.com/profile/walfrido42">walfrido42</a> (Traditional)</string>
+    <string name="thanks_dutch"><b>Dutch translation - </b><a href="https://crowdin.com/profile/Tonyinspace">Tonyinspace</a> and <a href="https://github.com/Vistaus">Vistaus</a></string>
+    <string name="thanks_finnish"><b>Finnish translation - </b><a href="https://crowdin.com/profile/Mikko95">Mikko95</a></string>
+    <string name="thanks_french"><b>French translation - </b><a href="https://crowdin.com/profile/matthus">matthus</a> and <a href="https://crowdin.com/profile/adaok">Adaok</a></string>
+    <string name="thanks_german"><b>German translation - </b><a href="https://github.com/GenosseFlosse">GenosseFlosse</a>, <a href="https://github.com/FloEdelmann">FloEdelmann</a>, <a href="https://crowdin.com/profile/jensMF">jensMF</a>, <a href="https://github.com/leso-kn">leso-kn</a> and <a href="https://crowdin.com/profile/mkamp">mkamp</a></string>
+    <string name="thanks_hungarian"><b>Hungarian translation - </b><a href="https://github.com/mondlicht-und-sterne">mondlicht-und-sterne</a></string>
+    <string name="thanks_italian"><b>Italian translation - </b><a href="https://github.com/igor-cali">igor-cali</a> and <a href="https://crowdin.com/profile/lrt84">lrt84</a></string>
+    <string name="thanks_indonesian"><b>Indonesian translation - </b><a href="https://github.com/hexatester">hexatester</a></string>
+    <string name="thanks_japanese"><b>Japanese translation - </b><a href="https://crowdin.com/profile/ysakamoto_">ysakamoto_</a></string>
+    <string name="thanks_polish"><b>Polish translation - </b><a href="https://crowdin.com/profile/wasikr7">wasikr7</a></string>
+    <string name="thanks_portuguese"><b>Portuguese translation - </b><a href="https://github.com/riuri">riuri</a> (Brazil)</string>
+    <string name="thanks_swedish"><b>Swedish translation - </b><a href="https://github.com/nlssn">nlssn</a></string>
+    <string name="thanks_turkish"><b>Turkish translation - </b><a href="https://crowdin.com/profile/perboran">perboran</a> and <a href="https://crowdin.com/profile/Tonyinspace">Tonyinspace</a></string>
+    <string name="thanks_ukrainian"><b>Ukrainian translation - </b><a href="https://github.com/tabaks">tabaks</a></string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">Follow system</string>
+    <string name="backup">Backup and restore</string>
+    <string name="import_database">Import database</string>
+    <string name="import_database_summary">Load a saved database</string>
+    <string name="export_database">Export database</string>
+    <string name="export_database_summary">Save the database in CSV format</string>
+    <string name="export_success">Database saved</string>
+    <string name="import_fail">There is a problem with the database</string>
+    <string name="import_success">Database loaded</string>
+    <string name="import_notfound">The specified file was not found</string>
+    <string name="import_select">Select the database to import</string>
+    <string name="mitigation_distance">Distance was greater than 2m/6ft</string>
+    <string name="mitigation_mask_me">I wore mask</string>
+    <string name="mitigation_mask_other">The other(s) wore mask</string>
+    <string name="mitigation_ventilation">The environment was ventilated</string>
+    <string name="mitigation_distance_value">Distance</string>
+    <string name="mitigation_mask_me_value">Mask (me)</string>
+    <string name="mitigation_mask_other_value">Mask (others)</string>
+    <string name="mitigation_ventilation_value">Ventilation</string>
+    <string name="click_to_select">Click to select</string>
+    <string name="mitigation_title">Prevention measures</string>
+    <string name="none">None</string>
+    <string name="shared_from">Shared from</string>
+    <string name="do_not_show_again">Don\'t show again</string>
+    <string name="checkin_title">Register at the venue</string>
+    <string name="checkin_reminder">This is just a register for yourself. Please, do not forget to register your details at the venue so the local authority can notify you if necessary.</string>
+    <string name="qr_error">The code could not be read</string>
+</resources>

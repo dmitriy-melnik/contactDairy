@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diario dei Contatti</string>
+    <string name="empty_table">Premi (+) per iniziare ad aggiungere i contatti</string>
+    <string name="options">Opzioni</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="daily_reminder">Promemoria quotidiano</string>
+    <string name="choose_time">Imposta l\'ora</string>
+    <string name="show_close_contacts">Mostra solo i contatti vicini</string>
+<!--    <string name="more">Addizionali</string>-->
+    <string name="settings">Impostazioni</string>
+<!--    <string name="about_donate">Offrimi un caffè</string>-->
+<!--    <string name="about_donate_summary"></string>-->
+    <string name="about_rate">Valuta la app</string>
+    <string name="about_rate_summary">Se l\'app ti piace, valutala e recensiscila in modo che raggiunga più persone che possano trovarla utile</string>
+<!--    <string name="contact_developer">Contatta lo sviluppatore</string>-->
+<!--    <string name="contact_developer_summary">Dimmi cosa pensi dell\'app, o i problemi che hai incontrato</string>-->
+    <string name="privacy_title">Informativa sulla privacy</string>
+    <string name="app_version_title">Versione dell\'app</string>
+    <string name="new_event">Nuovo evento</string>
+    <string name="new_contact">Nuovo contatto</string>
+    <string name="event_name">Nome dell\'evento</string>
+    <string name="place">Luogo</string>
+    <string name="date">Data</string>
+    <string name="time">Ora</string>
+    <string name="companions">Compagni</string>
+    <string name="phone">Telefono</string>
+    <string name="encounter_type">Tipo di incontro</string>
+    <string name="indoors">Al chiuso</string>
+    <string name="outdoors">All\'aperto</string>
+    <string name="mitigation_question">Quali misure di prevenzione sono state prese?</string>
+    <string name="no">No</string>
+    <string name="yes">Sì</string>
+    <string name="unsure">Non sicuro</string>
+    <string name="notes">Note</string>
+    <string name="name">Nome</string>
+    <string name="known_contact">Familiare o amico intimo?</string>
+    <string name="select">Selezionare</string>
+    <string name="entries_selected">" voci selezionate"</string>
+    <string name="duplicate">Crea una copia oggi</string>
+    <string name="delete">Elimina</string>
+    <string name="entry_deleted">Voce eliminata</string>
+    <string name="contact_saved">Contatto salvato</string>
+    <string name="event_saved">Evento salvato</string>
+    <string name="edit_event">Modifica l\'evento</string>
+    <string name="edit_contact">Modifica il contatto</string>
+    <string name="notification_title">Con chi sei stato, oggi?</string>
+    <string name="notification_text">Aggiungi i tuoi contatti al diario</string>
+    <string name="alarm_modified">Promemoria modificato</string>
+    <string name="incorrect_alarm_time">Inserisci un\'ora corretta</string>
+    <string name="choose_option">Scegli un\'opzione</string>
+    <string name="compulsory_field">Campo obbligatorio</string>
+    <string name="entries_deleted">Voci cancellate</string>
+    <string name="privacy_intro">Diario dei Contatti è distribuito nella speranza che sia utile, ma SENZA ALCUNA GARANZIA; senza nemmeno garanzia implicita di COMMERCIABILITÀ o ADEGUATEZZA AD UNO FINE SPECIFICO. Questa pagina è utilizzata per informare i visitatori delle mie politiche di raccolta, uso e condivisione delle Informazioni Personali se qualcuno decide di utilizzare Diario dei Contatti. In breve, e poiché Diario dei Contatti non può connettersi ad internet, nessuna Informazione Personale verrà memorizzata o copiata al di fuori del dispositivo dell\'utente. Se decidi di utilizzare Diario dei Contatti, acconsenti alla raccolta (nessuna) ed all\'uso delle informazioni in accordo a questa informativa. Le Informazioni Personali raccolte da Diario dei Contatti vengono utilizzate per fornire il servizio. Come esplicitato sopra, non posso e quindi non userò né condividerò le tue informazioni con nessuno.</string>
+    <string name="privacy_icu_title">Raccolta ed uso delle informazioni</string>
+    <string name="privacy_icu">L\'uso di Diario dei Contatti richiede l\'inserimento di alcune informazioni identificabili, ossia nomi e (opzionalmente) luoghie e numeri di telefono. Le informazioni richieste da Diario dei Contatti rimarranno nel tuo dispositivo e non sono raccolte da me in alcun modo.</string>
+    <string name="privacy_cookies_title">Cookies e fornitori di servizi</string>
+    <string name="privacy_cookies">I Cookie sono file con una piccola quantità di dati che sono comunemente usati come identificativi univoci anonimi. Essi sono trasmessi al tuo browser dai siti che visiti e memorizzati nella memoria interna del tuo dispositivo.\n\nDiario dei Contatti non usa alcun cookie, né proprietario né di terza parti.\n\nAllo stesso modo, nessun servizio è delegato a terze parti. Le informazioni che inserisci in Diario dei Contatti non lasciano mai il tuo dispositivo.</string>
+    <string name="privacy_security_title">Sicurezza</string>
+    <string name="privacy_security">Di nuovo, nessuna informazione che inserisci in Diario dei Contatti lascia mai il tuo dispositivo. Questo può sempre essere valutato ispezionando il codice sorgente di Diario dei Contatti, disponibile su <a href="https://www.github.com/apozas/contactdiary">www.github.com/apozas/contactdiary</a>. Perciò, la sua sicurezza ed integrità è collegata alla sicurezza fisica ed all\'integrità del tuo dispositivo, delle quali non mi assumo alcuna responsabilità.</string>
+    <string name="privacy_changes_title">Modifiche a questa informativa sulla privacy</string>
+    <string name="privacy_changes">Potrei aggiornare questa Informativa sulla Privacy di tanto in tanto. Perciò, si raccomanda di rivedere questa pagina periodicamente per qualsiasi modifica. Ti informerò di qualsiasi modifica pubblicando la nuova Informativa sulla Privacy in questa pagina.\n\nQuesta Informativa è in essere al 2020-09-08.</string>
+    <string name="privacy_contact_title">Contattami</string>
+    <string name="privacy_contact">Se hai qualsiasi domanda o suggerimento circa questa Informativa sulla Privacy, non esitare a contattarmi a <a href="mailto:contactdiary@alexpozas.com">contactdiary@alexpozas.com</a> (preferibilmente in inglese).</string>
+    <string name="emptydiary">Il diario è vuoto</string>
+    <string name="edit">Modifica</string>
+    <string name="entry_duplicated">Voce duplicata</string>
+    <string name="entries_duplicated">Voci duplicate</string>
+    <string name="acknowledgments">Ringraziamenti</string>
+    <string name="about">Informazioni</string>
+<!--    <string name="thanks_text">Sebbene Diario dei Contatti sia nato come progetto individuale, esso ha beneficiato dell\'inestimabile ed altruistico contributo di molte persone. I miei più sinceri ringraziamenti vanno alle persone in questa pagina.</string>-->
+<!--    <string name="thanks_homescreen"><b>Scorciatoie del launcher - </b><a href="https://github.com/GenosseFlosse">GenosseFlosse</a></string>-->
+<!--    <string name="thanks_dutch"><b>Traduzione olandese - </b><a href="https://crowdin.com/profile/Tonyinspace">Tonyinspace</a> e <a href="https://github.com/Vistaus">Vistaus</a></string>-->
+<!--    <string name="thanks_finnish"><b>Traduzione finlandese - </b><a href="https://crowdin.com/profile/Mikko95">Mikko95</a></string>-->
+<!--    <string name="thanks_french"><b>Traduzione francese - </b><a href="https://crowdin.com/profile/matthus">matthus</a> e <a href="https://crowdin.com/profile/adaok">Adaok</a></string>-->
+<!--    <string name="thanks_german"><b>Traduzione tedesca - </b><a href="https://github.com/GenosseFlosse">GenosseFlosse</a>, <a href="https://github.com/FloEdelmann">FloEdelmann</a>, <a href="https://crowdin.com/profile/jensMF">jensMF</a>, <a href="https://github.com/leso-kn">leso-kn</a> e <a href="https://crowdin.com/profile/mkamp">mkamp</a></string>-->
+<!--    <string name="thanks_italian"><b>Traduzione italiana - </b><a href="https://github.com/igor-cali">igor-cali</a> e <a href="https://crowdin.com/profile/lrt84">lrt84</a></string>-->
+<!--    <string name="thanks_indonesian"><b>Traduzione indonesiana - </b><a href="https://github.com/hexatester">hexatester</a></string>-->
+<!--    <string name="thanks_polish"><b>Traduzione polacca - </b><a href="https://crowdin.com/profile/wasikr7">wasikr7</a></string>-->
+<!--    <string name="thanks_portuguese"><b>Traduzione portoghese - </b><a href="https://github.com/riuri">riuri</a> (Brasile)</string>-->
+<!--    <string name="thanks_swedish"><b>Traduzione svedese - </b><a href="https://github.com/nlssn">nlssn</a></string>-->
+    <string name="theme">Tema</string>
+    <string name="theme_light">Chiaro</string>
+    <string name="theme_dark">Scuro</string>
+    <string name="theme_system">Impostazione di sistema</string>
+    <string name="backup">Backup e ripristino</string>
+    <string name="export_database">Esporta l\'archivio</string>
+    <string name="export_database_summary">Salva l\'archivio in formato CSV</string>
+    <string name="export_success">Archivio salvato</string>
+    <string name="import_database">Importa un archivio</string>
+    <string name="import_database_summary">Carica un archivio salvato</string>
+    <string name="import_fail">C\'è un problema con l\'archivio</string>
+    <string name="import_success">Archivio caricato</string>
+    <string name="import_notfound">Il file specificato non è stato trovato</string>
+    <string name="import_select">Seleziona l\'archivio da importare</string>
+    <string name="thanks_chinese"><b>Traduzione cinese - </b><a href="https://crowdin.com/profile/walfrido42">walfrido42</a> (Tradizionale)</string>
+    <string name="thanks_hungarian"><b>Traduzione ungherese - </b><a href="https://github.com/mondlicht-und-sterne">mondlicht-und-sterne</a></string>
+    <string name="thanks_turkish"><b>Traduzione turca - </b><a href="https://crowdin.com/profile/perboran">perboran</a> e <a href="https://crowdin.com/profile/Tonyinspace">Tonyinspace</a></string>
+    <string name="mitigation_mask_me_value">Mascherina (io)</string>
+    <string name="mitigation_mask_other_value">Mascherina (altri)</string>
+    <string name="mitigation_distance_value">Distanza</string>
+    <string name="mitigation_ventilation_value">Ventilazione</string>
+    <string name="mitigation_title">Misure di prevenzione</string>
+    <string name="none">Nessuna</string>
+    <string name="click_to_select">Premi per selezionare</string>
+    <string name="mitigation_distance">La distanza era maggiore di 2m</string>
+    <string name="mitigation_mask_me">Io indossavo mascherina</string>
+    <string name="mitigation_mask_other">Gli altri indossavano mascherina</string>
+    <string name="mitigation_ventilation">L\'ambiente era ventilato</string>
+<!--    <string name="thanks_ukrainian"><b>Traduzione ucraina - </b><a href="https://github.com/tabaks">tabaks</a></string>-->
+<!--    <string name="thanks_japanese"><b>Traduzione giapponese - </b><a href="https://crowdin.com/profile/ysakamoto_">ysakamoto_</a></string>-->
+    <string name="shared_from">Condiviso da</string>
+    <string name="do_not_show_again">Non mostrare più</string>
+    <string name="checkin_title">Registrati alla sede</string>
+    <string name="checkin_reminder">Questo è solo un record per te. Non dimenticare di registrare i tuoi dati presso la sede in modo che le autorità locali possano avvisarti se necessario.</string>
+    <string name="qr_error">Impossibile leggere il codice</string>
+</resources>

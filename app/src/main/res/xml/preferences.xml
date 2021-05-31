@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <PreferenceCategory
+        android:title="@string/settings">
+
+        <SwitchPreference
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:key="reminder_toggle"
+            android:title="@string/daily_reminder"
+            android:defaultValue="true"/>
+
+        <EditTextPreference
+            android:dependency="reminder_toggle"
+            android:key="reminder_time"
+            android:title="@string/choose_time"
+            android:dialogLayout="@layout/preference_edit_text"
+            android:defaultValue="21:00"
+            app:useSimpleSummaryProvider="true"/>
+
+        <SwitchPreference
+            android:key="closecontactonly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:title="@string/show_close_contacts" />
+
+        <ListPreference
+            android:key="theme"
+            android:title="@string/theme"
+            app:useSimpleSummaryProvider="true"
+            android:defaultValue="System"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/backup" >
+            <Preference
+            android:key="export"
+            android:title="@string/export_database"
+            android:summary="@string/export_database_summary" />
+
+        <Preference
+            android:key="import"
+            android:title="@string/import_database"
+            android:summary="@string/import_database_summary" />
+    </PreferenceCategory>
+
+<!--    <PreferenceCategory-->
+<!--        android:title="@string/more" >-->
+
+<!--        <Preference-->
+<!--            android:key="about"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:title="@string/about_donate"-->
+<!--            android:summary="@string/about_donate_summary">-->
+<!--            <intent android:action="android.intent.action.VIEW"-->
+<!--                android:data="@string/donate_url"/>-->
+<!--        </Preference>-->
+
+<!--        <Preference-->
+<!--            android:key="contactDev"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:title="@string/contact_developer"-->
+<!--            android:summary="@string/contact_developer_summary">-->
+<!--            <intent android:action="android.intent.action.VIEW"-->
+<!--                android:data="@string/contact_developer_uri">-->
+
+<!--                <extra android:name="android.intent.extra.SUBJECT"-->
+<!--                    android:value="@string/feedback_subject" />-->
+<!--            </intent>-->
+<!--        </Preference>-->
+<!--    </PreferenceCategory>-->
+
+    <PreferenceCategory
+        android:title="@string/about">
+
+<!--        <Preference-->
+<!--            android:key="acknowledgments"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:title="@string/acknowledgments" >-->
+<!--            <intent android:action="com.apozas.contactdiary.ThanksActivity"/>-->
+<!--        </Preference>-->
+
+<!--        <Preference-->
+<!--            android:key="privacy"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:title="@string/privacy_title" >-->
+<!--            <intent android:action="com.apozas.contactdiary.PrivacyActivity"/>-->
+<!--        </Preference>-->
+
+        <Preference
+            android:key="version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:title="@string/app_version_title"
+            android:summary="@string/versionName"/>
+    </PreferenceCategory>
+</PreferenceScreen>
